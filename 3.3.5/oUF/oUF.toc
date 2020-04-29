@@ -1,0 +1,10 @@
+﻿## Interface: 30300
+## Title: |cFF90EE90界面|r[|cff0055FF头像核心|r]
+## Author: Haste
+## Version: 1.4.3
+## OptionalDeps: !ClassColors
+## X-eMail: troeks@gmail.com
+## X-oUF: oUF
+## Notes: Unit frame framework. Does nothing by itself.
+
+oUF.xml

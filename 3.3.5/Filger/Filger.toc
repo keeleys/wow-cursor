@@ -1,0 +1,10 @@
+﻿## Interface: 30300
+## Title: |cFF90EE90功能|r[|cff0055FF增益监视|r]
+## Notes: Filtert ein paar Dinge... :P
+## Author: Nils Ruesch
+## Version: 090411
+## RequiredDeps: oUF, oUF_Shestak
+## OptionalDeps: oUF_Shestak
+
+settings.lua
+Filger.lua

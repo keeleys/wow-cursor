@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: |cFF90EE90界面|r[|cff0055FF技能buff|r]
+## Notes: Whose spell
+## Author: Keeley
+## Credits: Rothar, ALZA
+
+MouseTip.lua

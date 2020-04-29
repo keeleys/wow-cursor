@@ -1,0 +1,8 @@
+﻿## Interface: 30300
+## Title: |cFF90EE90功能|r[|cff0055FF装备评分|r]
+## Notes: Quickly and easily judge a player's level of Gear.
+## Version: 3x04
+## Author: Mirrikat45
+
+informationLite.lua
+GearScoreLite.lua
