@@ -46,6 +46,11 @@
 /cast [form:1]重殴;[form:3]斜掠;[target=mouseover,help][help][target=targettarget,help][noexists][harm]愈合
 /startattack[form:1/3]
 
+#showtooltip
+/cast [form:1]横扫（熊）;[form:3]横扫（豹）;起死回生
+/startattack[form:1/3]
+
+
 -- f
 #showtooltip
 /cast [form:1]野性冲锋 - 熊;[form:3]野性冲锋 - 豹;[harm]月火术;
@@ -67,7 +72,10 @@
 /cast [form:1,combat]猛击;[form:3,combat]凶猛撕咬;[nocombat]迅捷霜刃豹
 /startattack[form:1/3,combat]
 
-
+#showtooltip 
+/use [form:1]巨熊形态;[form:2]水栖形态;[form:4]旅行形态
+/use [noform:3]猎豹形态
+/use 潜行
 
 #showtooltip
 /cast [nostance:5,outdoors,nocombat,flyable,noswimming]!飞行形态;
