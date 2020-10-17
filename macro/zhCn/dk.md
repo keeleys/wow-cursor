@@ -4,6 +4,11 @@
 /startattack[combat]
 
 #showtooltip
+/cast [combat]奥术洪流;[nocombat,flyable]绿色驭风者;[nocombat]召唤军马
+/startattack[combat]
+
+
+#showtooltip
 /castsequence reset=5 冰冷触摸,暗影打击
 
 #showtooltip
