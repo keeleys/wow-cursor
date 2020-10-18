@@ -4,7 +4,7 @@
 /startattack[combat]
 
 #showtooltip
-/cast [combat]奥术洪流;[nocombat,flyable]绿色驭风者;[nocombat]召唤军马
+/cast [combat]自利;[nocombat,flyable]雪色狮鹫;[nocombat]装甲棕熊
 /startattack[combat]
 
 
